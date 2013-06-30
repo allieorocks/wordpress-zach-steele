@@ -1,0 +1,1 @@
+/Applications/wordpress-3.5.2-0/apps/wordpress/bnconfig.app
